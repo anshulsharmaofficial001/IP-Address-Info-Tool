@@ -37,10 +37,12 @@ It is helpful for understanding **OSINT (Open Source Intelligence)** concepts an
    ```bash
    pip install requests
    ```
-3. Run the Python file: python ip_info.py
-  
+3. Run the Python file:
+   ```
+   python ip_info.py
+   ```
 
-4. Enter an IP address when prompted to view its information.
+6. Enter an IP address when prompted to view its information.
 
 ## 🎯 Learning Outcomes
 
