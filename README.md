@@ -61,9 +61,8 @@ It is helpful for understanding **OSINT (Open Source Intelligence)** concepts an
 This project is created only for educational purposes to learn cyber security and OSINT fundamentals.
 Do not use this tool for any illegal or unethical activities.
 
-## 👨‍💻 Author
+## 👨‍💻 Anshul Sharma 
 
-Anshul Sharma
 BCA Student | Cyber Security Enthusiast
 
 
